@@ -1,5 +1,5 @@
 _repo: Under-the-Holly-Christmas-Tide-in-Song-and-Story_51719
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Randolph, Henry F. (Henry Fitz)
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1892
     gutenberg_agent_id: '46531'
     url: http://www.gutenberg.org/2009/agents/46531
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51719#Under-the-Holly-Christmas-Tide-in-Song-and-Story
 gutenberg_issued: '2016-04-10'
 gutenberg_type: Text
 identifiers:
