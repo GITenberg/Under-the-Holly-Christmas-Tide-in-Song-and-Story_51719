@@ -1,0 +1,31 @@
+_repo: Under-the-Holly-Christmas-Tide-in-Song-and-Story_51719
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Randolph, Henry F. (Henry Fitz)
+    alias: Randolph, Henry Fitz
+    birthdate: 1856
+    deathdate: 1892
+    gutenberg_agent_id: '46531'
+    url: http://www.gutenberg.org/2009/agents/46531
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51719'
+  lccn: '27001084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Christmas stories'
+- !lcsh 'Christmas -- Poetry'
+- GITenberg
+tableOfContents: Christmas -- Christmas minstrelsy -- A Christmas Lullaby -- The old
+  oak-tree's last dream -- Little Gottlieb -- Tiny Tim's Christmas dinner -- Christmas
+  carol -- Last night, as I lay sleeping -- Christmas Day in London -- Under the holly-bough
+  -- The little match-girl -- A rocking hymn -- In memoriam.
+title: 'Under the Holly: Christmas-Tide in Song and Story'
+url: http://www.gutenberg.org/ebooks/51719
